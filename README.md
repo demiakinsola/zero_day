@@ -1,1 +1,1 @@
-'This is my first git init process. It is also my first contact with git through Vagrant and Virtual box.'
+'This is my first README.md via Vagrant.'
